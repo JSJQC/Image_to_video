@@ -12,7 +12,7 @@ import cv2
 import os
 
 
-image_folder = "C:\\Users\\jakes\\OneDrive\\Documents\\University\\4th Year\\Master's Project\\Ansys Fluent\\Practice\\naca_63_212_files\\dp0\\FFF\\Fluent" # This is the file the images are kept in
+image_folder = "" # This is the file the images are kept in -> needs the full file path
 
 video_name = input("Enter the video name + extension: ") # Name of the file you will create
 
